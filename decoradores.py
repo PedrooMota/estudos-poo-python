@@ -1,3 +1,4 @@
+
 def meu_decorator(func):
   def wrapper():
     print("Antes da função ser chamada")

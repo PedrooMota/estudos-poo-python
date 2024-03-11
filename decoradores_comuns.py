@@ -1,6 +1,5 @@
 # @classmethod
 # @staticmethod
-
 class MinhaClasse:
   valor = 10 # Atributo de classe
 

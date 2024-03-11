@@ -3,6 +3,7 @@
 # Inimigo: adversario do usuario
 import random
 
+
 class Personagem:
   def __init__(self, nome, vida, nivel):
     self.__nome = nome
